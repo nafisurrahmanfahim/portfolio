@@ -2,14 +2,14 @@ import React from 'react'
 
 const About = () => {
   return (
-    <section className="py-[100px]">
+    <section className="py-[100px] pb-[40px]">
         <div className="max-w-container mx-auto">
             <div className="text-center">
                 <h3 className="font-bold text-[35px] font-open pb-[20px]">About Me</h3>
-                <p className="font-normal font-open text-[18px] text-[#757575] w-[827px] mx-auto">I, m a designer & developer with a passion for web design. I enjoy developing simple, clean and slick websites that provide real value to the end user. Thousands of clients have procured exceptional resulfs while working with me. Delivering work within time and budget which meets clients requirements in our mata.</p>
+                <p className="font-normal font-open md:text-[17px] text-[18px] text-[#757575] w-[827px] md:w-[100%] mx-auto">I, m a designer & developer with a passion for web design. I enjoy developing simple, clean and slick websites that provide real value to the end user. Thousands of clients have procured exceptional resulfs while working with me. Delivering work within time and budget which meets clients requirements in our mata.</p>
             </div>
 
-            <div className="flex justify-center gap-[50px] pt-[30px]">
+            <div className="flex justify-center gap-[50px] pt-[30px] md:pt-[45px]">
                 <div className="text-center">
                     <p className="font-normal text-[#757575] text-[20px] font-open">Name</p>
                     <h3 className="font-bold font-open text-[20px]">Mary Hardy </h3>

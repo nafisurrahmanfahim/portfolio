@@ -1,0 +1,11 @@
+.nav {
+    transition: .4s ease-in-out;
+    -webkit-transition: .4s ease-in-out;
+    -moz-transition: .4s ease-in-out;
+    -ms-transition: .4s ease-in-out;
+    -o-transition: .4s ease-in-out;
+}
+
+.scrolled.fixed{
+    background: #4C656C;
+}
